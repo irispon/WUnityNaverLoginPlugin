@@ -1,0 +1,5 @@
+com/example/plugin/BuildConfig.java
+ com.example.plugin.BuildConfig
+com/example/plugin/NaverLoginTest.java
+ com.example.plugin.NaverLoginTest
+ com.example.plugin.NaverLoginTest$1
